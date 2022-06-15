@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "45459945468",
+    "project_id": "xdxdbanda-e245a",
+    "storage_bucket": "xdxdbanda-e245a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45459945468:android:a7ca40d466359bfe912479",
+        "android_client_info": {
+          "package_name": "com.mycompany.registrouwu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45459945468-eseor020p2ssg8102td59nihkivb1m7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.registrouwu",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "45459945468-fakvs5lj55np120iv2bs8guau3jbpp1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD4tvFSaKE1XPWEvqgxnYeZwqOqyfA_cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45459945468-fakvs5lj55np120iv2bs8guau3jbpp1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "45459945468-82396mah4u29mnhnv8em5omn2s7acmaa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.registrouwu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
